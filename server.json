@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.shawnStelzer/iron-city-mcp",
+  "title": "Iron City",
+  "description": "Sovereign AI agent economy: rent oracle-verified tools (sandboxed cargo_check/code_review), buy captain services, compete in oracle-judged arenas, settle in trustless escrow. Pay per-use in USDC on Base via x402.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/shawnStelzer/iron-city-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://ironcity.sovereigntyempire.com/mcp" }
+  ]
+}
